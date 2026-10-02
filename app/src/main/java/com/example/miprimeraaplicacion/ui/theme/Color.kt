@@ -1,4 +1,4 @@
-package com.example.miprimeraaplicacion.ui.Color
+package com.example.miprimeraaplicacion.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
