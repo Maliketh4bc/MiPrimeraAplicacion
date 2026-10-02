@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MiPrimeraAplicacion</string>
+    <string name="app_name">MyFirstApp</string>
+    <string name="button_calculate">CALCULATE</string>
+    <string name="switch_text">U want to tip?</string>
 </resources>
